@@ -1,0 +1,40 @@
+VACCINE-injection
+		   Choose between Johnson & Johnson and Pfizer vaccines at your nearest clinic or hospital
+		   Common symptoms include Fever or Chills, headache or dry coughs.
+		   
+QUARANTINE
+		  Stay at home or quarantine facility for at least 14 days
+		  Avoid contact with other people, especially infected people
+		  Keep a social distance of at least 1 meter in public spaces
+		  Common symptoms include shortness of breath and muscle or body aches.
+
+LAGEVRIO(MOLNUPIRAVIR)-capsules
+		  Take 4 capsules every 12 hours.
+		  Do not break or open the capsules.
+		  Common symptoms include loss of taste or smell, fatigue and body aches
+		  
+PAXLOVID(NIRMATRELVIR)-tablets 
+		  Two 150 mg tablets of nirmatrelvir with 100 mg one 100 mg tablet of ritonavir taken together twice daily for 5 days
+		  Do not take this for more than 5 consecutive days.
+		  Taken orally without food
+		  Not recommended in patients with  severe hepatic and renal impairment
+		  Common symptoms include sore throat and congestion or runny nose
+		  
+VEKLURY(REMDESIVIR)-injection
+		  100mg/20mL as lyophilized powder, single dose
+		  Taken for 5 days with possible extending the period
+		  For 28 days old and older people, weighing 3kg or more
+		  Common symptoms include sore throat, shortness of breath
+		  	
+ACTEMRA(TOCILIZUMAB)-injection
+		  162 mg once every week, followed by an increase based on clinical respsonse
+		  Not for patients with neutrophil count below 1000 mm3
+		  Common symptoms include nausea, vomiting, body aches
+		   
+OLUMIANT(BARICITINIB)-tablets
+		  4 mg once daily for up to 14 days
+		  Do not use with vaccines
+		  Not for patients with Anemia and Lymphopenia
+		  Common symptoms include Diarrhea, coughing blood and nausea or vomiting.
+
+		  
